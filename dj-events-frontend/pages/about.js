@@ -1,5 +1,5 @@
 import React from 'react'
-// comment
+// comment test number 2
 export default function AboutPage() {
   return (
     <div>
